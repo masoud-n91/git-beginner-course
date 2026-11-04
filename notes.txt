@@ -1,1 +1,2 @@
 Lesson 1: Git remembers versions.
+Lesson 2: A commit is a checkpoint.
